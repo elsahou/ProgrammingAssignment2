@@ -1,7 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
 
-## Write a short comment describing this function
+## make a Cache of a Matrix so that fuction does not have to loop repeatedly
 
 makeCacheMatrix <- function(x = matrix()) {
 
